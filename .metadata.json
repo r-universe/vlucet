@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rgovcan",
+    "oncran": true
+  },
+  {
+    "package": "rgrassdoc",
+    "oncran": true
+  }
+]

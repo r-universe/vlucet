@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/vlucet/universe
 	shallow = true
 	branch = HEAD
+[submodule "rgovcan"]
+	path = rgovcan
+	url = https://github.com/VLucet/rgovcan
+	shallow = true
+	registered = true
+[submodule "rgrassdoc"]
+	path = rgrassdoc
+	url = https://github.com/VLucet/rgrassdoc
+	shallow = true
+	registered = true
