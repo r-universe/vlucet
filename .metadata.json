@@ -1,7 +1,6 @@
 [
   {
-    "package": "rgovcan",
-    "oncran": true
+    "package": "rgovcan"
   },
   {
     "package": "rgrassdoc",
