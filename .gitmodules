@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vlucet/universe
+	url = https://github.com/vlucet/vlucet.r-universe.dev
 	branch = HEAD
 [submodule "rgovcan"]
 	path = rgovcan
